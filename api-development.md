@@ -12,7 +12,7 @@
 
 ## 1. API & REST API
 
-### 1.1. API là gì?
+### 1.1. API overview
 
 **API (Application Programming Interface)** là một tập hợp các quy tắc và giao thức cho phép hai phần mềm giao tiếp với nhau. Có thể hình dung API giống như một "người phục vụ" trong nhà hàng:
 
